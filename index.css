@@ -1,3 +1,4 @@
 .test {
   background: tomato;
+  composes: test from './test.css';
 }
